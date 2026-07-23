@@ -12,10 +12,12 @@
   "author": "Brad Traversy",
   "license": "MIT",
   "dependencies": {
+    "bcryptjs": "^3.0.3",
     "colors": "^1.4.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.3",
     "mongoose": "^8.13.2",
     "morgan": "^1.10.0"
   },
